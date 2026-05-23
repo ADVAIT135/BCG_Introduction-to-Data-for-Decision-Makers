@@ -58,18 +58,6 @@ In this simulation, I completed a job simulation focused on advising a hypotheti
 - Tailored analysis to address specific marketing goals
 - Considered stakeholder perspectives in recommendations
 
-## 📁 Repository Structure
-
-```
-BCG_Introduction-to-Data-for-Decision-Makers/
-├── README.md                 # This file
-├── data/                     # Simulated campaign and customer data
-├── analysis/                 # Data analysis scripts and notebooks
-├── visualizations/           # Charts, graphs, and dashboards
-├── insights/                 # Key findings and analysis summaries
-└── presentation/             # Final report and recommendations
-```
-
 ## 📈 Campaign Analysis Highlights
 
 ### Multi-Channel Performance Assessment
